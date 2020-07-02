@@ -35,10 +35,7 @@ $ cd Pneumonia-Detector
 2. Download the [dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
 3. Set the directory in the project to your directory
-```
-movies_df = pd.read_csv("<YOUR movies.csv PATH HERE>")
-ratings_df = pd.read_csv("<YOUR ratings.csv PATH HERE>")
-```
+
 
 ### Prerequisites
 Things you need to install before running:
