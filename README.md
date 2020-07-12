@@ -1,4 +1,4 @@
-# Detecting Pneumonia in Chest X-Rays using CNN.
+# Detecting Pneumonia in Chest X-Rays using CNN..
 
 **Project duration**: 3 to 5 days  
 **IDE**: Jupyter Notebooks/Kaggle Kernel  
